@@ -35,7 +35,7 @@ For more information, visit the [RenderCV documentation](https://docs.rendercv.c
 
 ## Contact
 
-- **Email:** paweldywandev@outlook.com
+- **Email:** paweldywan@outlook.com
 - **LinkedIn:** [Paweł Dywan](https://www.linkedin.com/in/paweł-dywan-a02271363/)
 - **GitHub:** [paweldywandev](https://github.com/paweldywandev)
 
