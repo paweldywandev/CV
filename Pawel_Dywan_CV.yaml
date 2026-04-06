@@ -130,6 +130,9 @@ cv:
           - Built CRM integrations, HL7 interfaces, RIS/HIS integrations, and WCF-based e-prescription modules
           - Developed reporting solutions using SQL Server Reporting Services
     certificates:
+      - name: Microsoft Certified Azure AI Engineer Associate
+        date: 2026-04
+        url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/C643A60653F07DF4
       - name: Microsoft Certified Azure Solutions Architect Expert
         date: 2026-02
         url: https://learn.microsoft.com/api/credentials/share/en-us/DywanPawe-4086/729C618CA5356655
@@ -335,7 +338,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2026-02-17'
+  current_date: '2026-04-06'
   render_command:
     design:
     locale:
